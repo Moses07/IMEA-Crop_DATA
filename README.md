@@ -1,4 +1,4 @@
-# IMEA-Crop_DATA
+# IMEA-Crop_DATA EXTRACTOR
 # IMEA Direct Data Extractor 🌾📈More actions
 
 A simple Python tool for extracting real-time agricultural data from IMEA (Instituto Mato-grossense de Economia Agropecuária) API, providing crucial insights into Brazil's agricultural sector for equity analysts, traders, and researchers.
